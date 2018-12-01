@@ -1,0 +1,54 @@
+{
+"profile":{
+    "img":"Chrysanthemum.jpg",
+    "name":"varalakshmi",
+    "institution":"vignan",
+    "degree":"btech",
+    "place":"palakaluru"
+},
+     "career":{
+     	"info":"seeking a challenging career with an mnc."
+     },
+     "education":[
+     	{
+           "degree":"btech",
+           "institution":"vignan",
+           "yop":"2020"
+       },
+       {
+       	"degree":"intermediate",
+       	"institution":"chaitanya",
+       	"yop":"2016"
+       },
+       {
+       	"degree":"ssc",
+       	"institution":"chaitanya",
+       	"yop":"2014"
+       }
+   ],
+    "language":[
+    	{
+    	"lang":"telugu"
+     },
+     {
+        "lang":"english"
+     },
+     {
+     	"lang":"hindi"
+     }
+    ],
+    "skills":[
+    	{
+          "title":"platforms",
+          "content":"windows,linux"
+      },
+      {
+      "title":"programming language",
+      "content":"c,c++,java,dbms" 
+           },
+           {
+           	"title":"database",
+           	"content":"mysql"
+           } 
+       ]
+}
